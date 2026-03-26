@@ -1,4 +1,6 @@
+### Text+Auido to Image Generation Demo
 
+![](assets/text-audio-to-image-generation.png)
 
 
 ###  Multimodal alignement unlock new and fancy downstream task
