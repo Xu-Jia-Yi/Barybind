@@ -1,4 +1,4 @@
-![](text-audio-to-image-generation.png)
+![](TA2I.png)
 
 
 ###  Multimodal alignement unlock new and fancy downstream task
